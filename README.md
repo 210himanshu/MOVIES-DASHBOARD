@@ -1,9 +1,9 @@
-# MOVIES-DASHBOARD
+# MOVIES_PowerBi_DASHBOARD
 ![overview](https://github.com/210himanshu/MOVIES-DASHBOARD/blob/main/overview%20dashboard.png)
 ![revenue](https://github.com/210himanshu/MOVIES-DASHBOARD/blob/main/revenue%20dashboard.png)
 
 ## OVERVIEW
-This Power BI project focuses on analyzing a dataset of movies to uncover trends and patterns across various attributes such as language, genre, runtime, revenue, and release year. The dashboard provides interactive visuals to explore how different movie categories perform over time and highlights key insights about audience preferences and industry patterns.
+This Power BI project focuses on analyzing a dataset of movies to uncover trends and patterns across various attributes such as language, genre, runtime, revenue, production comapny and release year. The dashboard provides interactive visuals to explore how different movie categories perform over time and highlights key insights about audience preferences and industry patterns.
 
 With clean visual storytelling and dynamic filtering capabilities, the project aims to present complex data in a simple and impactful way for stakeholders in the entertainment or data analysis domain.
 
